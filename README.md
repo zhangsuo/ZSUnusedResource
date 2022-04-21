@@ -1,3 +1,5 @@
+https://github.com/zhangsuo/ZSUnusedResource/blob/master/LSUnusedResourcesExample.gif
+
 ##用法
 
 它是一个有用的实用工具，可以检查Xcode项目中没有使用哪些资源。非常容易使用：
